@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application01</string>
+    <string name="a">this is a</string>
+    <string name="b">this is b</string>
+    <string name="btn01">确定</string>
+    <string name="btn02">取消</string>
+    <string name="message">this is message</string>
+</resources>
